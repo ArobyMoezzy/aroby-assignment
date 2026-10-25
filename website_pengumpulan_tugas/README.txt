@@ -1,4 +1,4 @@
-TUGASKU - WEBSITE PENGUMPULAN TUGAS MAHASISWA
+Aroby Assignment - WEBSITE PENGUMPULAN TUGAS MAHASISWA
 Teknologi: PHP 8+, MySQL/MariaDB, HTML, CSS.
 
 FITUR
@@ -24,8 +24,8 @@ CARA MENJALANKAN DI WINDOWS DENGAN XAMPP
 7. Buka http://localhost/website_pengumpulan_tugas/setup.php satu kali untuk
    membuat akun admin (kalau belum dibuat).
 8. Login admin:
-   Email: admin@kampus.local
-   Password: Admin123!
+   Email: 
+   Password: 
 9. Setelah setup berhasil, hapus setup.php.
 10. Daftarkan akun mahasiswa melalui halaman Daftar.
 
